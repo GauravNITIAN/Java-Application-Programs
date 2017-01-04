@@ -1,6 +1,6 @@
 
 
-Here Image Resize Program is to Resize given image.
+Here Image Resize Program is to Resize given image either in terms of aspect ratio or in terms of percentage.
 
 All the steps to resize is given in the Program itself
 
